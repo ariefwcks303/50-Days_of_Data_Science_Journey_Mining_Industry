@@ -82,7 +82,7 @@ Perjalanan pembelajaran dibagi menjadi enam modul progresif, mulai dari fondasi 
 
 | # | Project / Notebook | Learning Focus |
 |---|---|---|
-| 01 | Exploring Iron Ore Flotation Process Data | DataFrame, inspection, descriptive statistics |
+| 01 | Exploring Iron Ore Flotation Process Data | DataFrame, inspection, descriptive statistics/ |
 | 02 | Cleaning Metal Commodity Price Data | Missing values, datetime parsing |
 | 03 | Global Mining Production EDA | GroupBy, aggregation, production trends |
 | 04 | Mineral Geochemistry EDA | Correlation, distributions, group comparison |
@@ -160,6 +160,11 @@ Perjalanan pembelajaran dibagi menjadi enam modul progresif, mulai dari fondasi 
 
 ---
 
+## 📂 Progress Tracker
+- [x] **Day 01:** [Day 01 — Understanding Data from the Iron Ore Flotation Process](Day_01_Understanding_mine_flotation_data/README.md) — Mining Data Analytics, Industrial Process Understanding, Data Loading, Data Sampling, Data Inspection, Descriptive Statistics, Missing Value Analysis, Silica Concentrate Quality Analysis, High Silica Classification (Threshold >3%), Process Parameter Comparison, Exploratory Data Analysis, Histogram Visualization, Scatter Plot, Correlation Analysis (Pearson & Spearman), Ore Pulp pH Analysis, Starch Flow Analysis, & Operational Insights using Iron Ore Flotation Dataset.
+
+
+---
 ## 🛠️ Technical Stack | Teknologi yang Digunakan
 
 The following technologies form the technical foundation of this learning journey.
