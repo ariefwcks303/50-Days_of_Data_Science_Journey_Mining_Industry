@@ -1,5 +1,17 @@
 # Day 01 — Understanding Data from the Iron Ore Flotation Process
 
+ <p align="center">
+  <strong>Iron Ore Flotation Data Analysis</strong><br>
+  Analisis data proses flotasi bijih besi untuk memahami karakteristik feed, kualitas konsentrat, parameter operasional, dan hubungannya terhadap kadar silika.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Data%20Science%20Mining-blue" alt="Project: Data Science Mining">
+  <img src="https://img.shields.io/badge/Type-Exploratory%20Data%20Analysis-purple" alt="Type: Exploratory Data Analysis">
+  <img src="https://img.shields.io/badge/Method-Statistical%20Analysis-green" alt="Method: Statistical Analysis">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow" alt="Python">
+</p>
+
 ## Overview
 
 Pada Day 01, saya mulai mempelajari **data analytics di industri pertambangan** melalui dataset proses flotasi bijih besi. Fokus notebook ini adalah mengenali struktur data industri, memahami parameter proses, melakukan pemeriksaan statistik dasar, membuat filter sederhana, dan menggunakan visualisasi untuk menemukan pola awal pada kualitas hasil flotasi.
@@ -304,6 +316,9 @@ Analisis menunjukkan bahwa hubungan linear antara `% Silica Feed` dan `% Silica 
 Temuan ini menjadi hipotesis awal untuk eksplorasi lebih lanjut terhadap pengendalian proses flotasi. Pada tahap ini, notebook berfokus pada pemahaman data dan insight deskriptif, belum pada pembangunan model prediksi.
 
 ---
+## 👤 Author
 
-**Author:** [Your Name]  
-**Project:** Data Analytics / Machine Learning Learning Journey — Day 01
+**Arief Wicaksono**
+
+Aspiring AI Engineer | Data Science Student
+---
