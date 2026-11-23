@@ -162,7 +162,7 @@ Perjalanan pembelajaran dibagi menjadi enam modul progresif, mulai dari fondasi 
 
 ## 📂 Progress Tracker
 - [x] **Day 01:** [Day 01 — Understanding Data from the Iron Ore Flotation Process](Day_01_Understanding_mine_flotation_data/README.md) — Mining Data Analytics, Industrial Process Understanding, Data Loading, Data Sampling, Data Inspection, Descriptive Statistics, Missing Value Analysis, Silica Concentrate Quality Analysis, High Silica Classification (Threshold >3%), Process Parameter Comparison, Exploratory Data Analysis, Histogram Visualization, Scatter Plot, Correlation Analysis (Pearson & Spearman), Ore Pulp pH Analysis, Starch Flow Analysis, & Operational Insights using Iron Ore Flotation Dataset.
-
+- [x] **Day 02:** [Day 02 — Cleaning Metal Commodity Price Data](Day_02_Cleaning_Metal_Commodity_Price/README.md) — Mining Commodity Data Analysis, Data Loading, Data Inspection, Metal Commodity Selection (Gold, Copper, Silver, Aluminium, Nickel, & Zinc), Datetime Conversion, Chronological Sorting, Missing Value Analysis, Data Cleaning, Forward Fill Imputation, Duplicate Value Investigation, Time Series Analysis, Historical Price Trend Visualization, Missing Value Percentage Visualization, Daily Percentage Return Analysis, Histogram Visualization, & Exploratory Data Analysis using Commodity Futures Prices Dataset.
 
 ---
 ## 🛠️ Technical Stack | Teknologi yang Digunakan
