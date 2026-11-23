@@ -425,6 +425,6 @@ Aspiring AI Engineer | Data Science Student
 ---
 
 <p align="center">
-  <em>Day 4 --- Data Exploration in Mining & Geochemistry.</em>
+  <em>Day 4 Data Exploration in Mining & Geochemistry.</em>
 </p>
 
