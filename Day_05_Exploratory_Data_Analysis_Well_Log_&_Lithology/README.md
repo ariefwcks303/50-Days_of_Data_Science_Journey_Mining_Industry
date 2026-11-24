@@ -373,3 +373,8 @@ Temuan ini menjadi gambaran awal mengenai variasi karakteristik batuan pada sumu
 **Arief Wicaksono**
 
 Aspiring AI Engineer | Data Science Student
+
+---
+<p align="center">
+  <em>Day 5 Data Exploration in Well-Log & Lithology.</em>
+</p>
