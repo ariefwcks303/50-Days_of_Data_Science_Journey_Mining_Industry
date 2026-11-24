@@ -165,6 +165,7 @@ Perjalanan pembelajaran dibagi menjadi enam modul progresif, mulai dari fondasi 
 - [x] **Day 02:** [Day 02 — Cleaning Metal Commodity Price Data](Day_02_Cleaning_Metal_Commodity_Price/README.md) — Mining Commodity Data Analysis, Data Loading, Data Inspection, Metal Commodity Selection (Gold, Copper, Silver, Aluminium, Nickel, & Zinc), Datetime Conversion, Chronological Sorting, Missing Value Analysis, Data Cleaning, Forward Fill Imputation, Duplicate Value Investigation, Time Series Analysis, Historical Price Trend Visualization, Missing Value Percentage Visualization, Daily Percentage Return Analysis, Histogram Visualization, & Exploratory Data Analysis using Commodity Futures Prices Dataset.
 - [x] **Day 03:** [Day 03 — Global Mining Production EDA (Coal & Metals)](Day_03_Global_Mining_Produciton_EDA_(Coal_&_Metal)/README.md) — Global Mining Production Analysis, Dataset Loading, Initial Data Inspection, Production Category Exploration, Material Code Exploration, Filtering, Aggregation, Annual Production Trend Analysis, Top 10 Materials Analysis, Facility-Level Production Analysis, Logarithmic Scale Distribution, Data Visualization, & Exploratory Data Analysis using Open Database on Global Coal and Metal Mining Dataset.
 - [x] **Day 04:** [Day 04 — Exploratory Data Analysis of Mineral Geochemistry](Day_04_Exploratory_Data_Analysis_of_Mineral_Geochemistry/README.md) — Mining Data Analytics, Mineral Geochemistry Analysis, Dataset Loading, Data Inspection, Descriptive Statistics, Physical Properties Analysis, Mineral Hardness Analysis (Mohs Scale), Specific Gravity Analysis, Refractive Index Analysis, Molar Mass Analysis, Chemical Element Analysis (Iron, Copper, Silicon, Oxygen, & Sulfur), Zero Value Investigation, Potential Missing Value Identification, Mineral Ranking, Distribution Analysis, Histogram Visualization, Scatter Plot Analysis, Correlation Analysis, Correlation Matrix, Heatmap Visualization, Data Quality Assessment, & Geological Insights using Comprehensive Database of Minerals.
+- [x] **Day 05:** [Day 05 — Exploratory Data Analysis Well-Log & Lithology](Day_05_Exploratory_Data_Analysis_Well_Log_&_Lithology/README.md) — Geoscience Data Analytics, Well Logging Analysis, Dataset Loading, Initial Data Inspection, Missing Value Analysis, All-NaN Column Detection, Data Cleaning, Feature Selection, Descriptive Statistics, Gamma Ray (GR) Analysis, Bulk Density (RHOB) Analysis, Depth-Based Log Visualization (Track Plot), Gamma Ray Distribution Analysis, Lithology Group Exploration, Lithology Group Frequency Analysis, Boxplot Visualization, Comparative Lithology Analysis, & Geological Insights using Well Logs Dataset for Machine Learning.
 
 ---
 ## 🛠️ Technical Stack | Teknologi yang Digunakan
@@ -210,11 +211,11 @@ This section will be updated as each notebook is completed and documented.
 
 **Module 1 — Data Foundations & Mining EDA**
 
-- [ ] Day 01 — Exploring Iron Ore Flotation Process Data
-- [ ] Day 02 — Cleaning Metal Commodity Price Data
-- [ ] Day 03 — Global Mining Production EDA
-- [ ] Day 04 — Mineral Geochemistry EDA
-- [ ] Day 05 — Well-Log & Lithology EDA
+- [x] Day 01 — Exploring Iron Ore Flotation Process Data
+- [x] Day 02 — Cleaning Metal Commodity Price Data
+- [x] Day 03 — Global Mining Production EDA
+- [x] Day 04 — Mineral Geochemistry EDA
+- [x] Day 05 — Well-Log & Lithology EDA
 - [ ] Day 06 — Processing Energy Consumption EDA
 - [ ] Day 07 — Mining Safety & Incident Analysis
 - [ ] Day 08 — Global Mineral Reserves Exploration
