@@ -1,20 +1,18 @@
-::: {align="center"}
-# Day 08 --- Exploratory Data Analysis of Global Reserve and Ore Distribution
+<div align="center">
 
-**Eksplorasi distribusi geografis situs bijih dunia, komoditas mineral
-utama, dan cadangan batubara berdasarkan negara serta kawasan.**
-:::
+# Day 08 — Exploratory Data Analysis of Global Reserve and Ore Distribution
 
-```{=html}
+**Eksplorasi distribusi geografis situs bijih dunia, komoditas mineral utama, dan cadangan batubara berdasarkan negara serta kawasan.**
+
+</div>
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Project-Data%20Science%20Mining-blue" alt="Project">`{=html}
-`<img src="https://img.shields.io/badge/Type-Exploratory%20Data%20Analysis-purple" alt="EDA">`{=html}
-`<img src="https://img.shields.io/badge/Focus-Global%20Ore%20%26%20Coal%20Reserves-green" alt="Focus">`{=html}
-`<img src="https://img.shields.io/badge/Python-3.x-yellow" alt="Python">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Project-Data%20Science%20Mining-blue" alt="Project">
+  <img src="https://img.shields.io/badge/Type-Exploratory%20Data%20Analysis-purple" alt="EDA">
+  <img src="https://img.shields.io/badge/Focus-Global%20Ore%20%26%20Coal%20Reserves-green" alt="Focus">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow" alt="Python">
 </p>
-```
+
 ## 📌 Gambaran Umum Proyek
 
 Sumber daya mineral dan batubara tersebar di berbagai wilayah dunia
@@ -594,13 +592,8 @@ tentang distribusi sumber daya pertambangan global.
 
 Aspiring AI Engineer | Data Science Student
 
-------------------------------------------------------------------------
-
-```{=html}
+---
 <p align="center">
-```
-`<em>`{=html}Day 08 --- Exploring Global Ore Sites and Coal Reserve
-Distribution.`</em>`{=html}
-```{=html}
+  <em>Day 08 --- Exploring Global Ore Sites and Coal Reserve.</em>
 </p>
-```
+
