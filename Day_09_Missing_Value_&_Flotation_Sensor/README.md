@@ -408,50 +408,11 @@ Beberapa pengembangan yang dapat dilakukan setelah analisis ini:
 Day_09_Missing_Values_&_Outliers_Flotation_Sensor/
 │
 ├── Day_09_Missing_Values_&_Outliers_Flotation_Sensor.ipynb
-├── README.md
-└── MiningProcess_Flotation_Plant_Database.csv
+└── README.md
 ```
 
 *Catatan: Dataset CSV diperoleh dari Kaggle dan tidak harus disimpan langsung di dalam repository.*
 
-## ⚙️ Installation & Usage
-
-### 1. Clone Repository
-
-```bash
-git clone <repository-url>
-cd <repository-folder>
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-Untuk mengunduh dataset menggunakan Kaggle API:
-
-```bash
-pip install kaggle
-```
-
-### 3. Download Dataset
-
-Dataset dapat diunduh melalui Kaggle:
-
-[Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process)
-
-Jika menggunakan Google Colab, siapkan `kaggle.json` dan jalankan perintah Kaggle API sesuai notebook.
-
-### 4. Run Notebook
-
-Buka file berikut menggunakan Jupyter Notebook atau Google Colab:
-
-```text
-Day_09_Missing_Values_&_Outliers_Flotation_Sensor.ipynb
-```
-
-Jalankan setiap cell secara berurutan untuk melakukan pemeriksaan missing values, deteksi outlier, evaluasi statistik, dan visualisasi data.
 
 ## 📝 Conclusion
 
